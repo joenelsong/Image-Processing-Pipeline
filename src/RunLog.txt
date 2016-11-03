@@ -1,0 +1,21 @@
+Blender: : start updating input1 
+Blender: : finish updating input1 
+Blender: : start updating input2 
+Blender: : finish updating input2 
+1434080338.107303 Blender: : start executing filter 
+1434080338.149407 Blender: : finish executing filter 
+Blender: : execution time : 0.042104 
+Blender: : start updating input1 
+Blender: : finish updating input1 
+Blender: : start updating input2 
+Blender: : finish updating input2 
+1434080338.247930 Blender: : start executing filter 
+1434080338.324383 Blender: : finish executing filter 
+Blender: : execution time : 0.076453 
+Blender: : start updating input1 
+Blender: : finish updating input1 
+Blender: : start updating input2 
+Blender: : finish updating input2 
+1434080338.552102 Blender: : start executing filter 
+1434080338.844026 Blender: : finish executing filter 
+Blender: : execution time : 0.291924 
