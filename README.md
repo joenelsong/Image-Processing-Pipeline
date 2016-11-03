@@ -5,15 +5,19 @@ Image Processing Pipeline with Filters
 
 
 ## Filters Implemented
-** 0) Crop
-** 0) Tranpose
-** 0) Invert
-** 0) Checkerboard
+1. HalfnSize
+2. LeftRightConcatenate
+3. TopBottomConcatenate
+4. Blend
+5. Crop
+6. Tranpose
+7. Invert
+8. Checkerboard
 
 
 ## Sources
-** 0) Constant color
+1. Constant color
 
 
 ## Sinks
-**0) Checksum
+1. Checksum
