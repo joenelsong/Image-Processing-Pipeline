@@ -1,7 +1,9 @@
 # Image-Processing-Pipeline
 Image Processing Pipeline with Filters
 
-
+## Testing
+1. 60+ Regression tests
+2. All Passing
 
 
 ## Filters Implemented
